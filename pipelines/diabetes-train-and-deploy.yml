@@ -1,5 +1,5 @@
 variables:
-  ml-ws-connection: 'github.com_Jessieliu111' # Workspace Service Connection name
+  ml-ws-connection: 'pipelineservicename' # Workspace Service Connection name
   ml-ws: 'JessieDP101' # AML Workspace name
   ml-rg: 'JessieDP100' # AML resource Group name
   ml-ct: 'pipelinecluster' # AML Compute cluster name
